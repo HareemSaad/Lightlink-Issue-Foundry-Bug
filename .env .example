@@ -1,0 +1,3 @@
+PEGASUS_RPC_URL='https://replicator-02.pegasus.lightlink.io/rpc/v1'
+PRIVATE_KEY=''
+SEPOLIA_RPC_URL=''
